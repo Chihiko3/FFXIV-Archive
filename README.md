@@ -1,4 +1,3 @@
-
 # 关于这个仓库
 
 **仓库的主要用途是记录FF14的种种**
@@ -18,4 +17,4 @@
   - 日常使用的Obsidian是有点魔改的Markdown，感觉需要熟悉更多Github和Gitlab上的Markdown语法
 
 
-
+=> [Wiki](https://github.com/Chihiko3/FFXIV-Archive/wiki)
