@@ -4,7 +4,7 @@
 
 <h1 align="center">FFXIV ARCHIVE</h1>
 
-**仓库的主要用途是记录FF14的种种**
+<h3 align ="center">仓库的主要用途是记录有关FF14的种种 </h3>
 
 - 短期目标
   - 及其完成情况
