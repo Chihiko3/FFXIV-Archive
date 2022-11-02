@@ -26,7 +26,7 @@
 
 <h1><div align ="center">
   
-=> [Wiki](https://github.com/Chihiko3/FFXIV-Archive/wiki) <=
+=> https://github.com/Chihiko3/FFXIV-Archive/wiki/%E5%AF%BC%E8%88%AA%E9%A1%B5 <=
                                                                
 <p align="center">
 <img width="100" height="100" src="https://user-images.githubusercontent.com/89134046/199577996-eff54f1b-394f-49f5-9bdc-18c6ce8eabba.png">
