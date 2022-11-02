@@ -1,4 +1,8 @@
-# 关于这个仓库
+<p align="center">
+  <img width="100" height="100" src="https://user-images.githubusercontent.com/89134046/199556237-daa86658-37b9-492c-9c4e-115843d60e16.png">
+</p>
+
+<h1 align="center">FFXIV ARCHIVE</h1>
 
 **仓库的主要用途是记录FF14的种种**
 
@@ -18,3 +22,4 @@
 
 
 => [Wiki](https://github.com/Chihiko3/FFXIV-Archive/wiki)
+
