@@ -20,6 +20,8 @@
 - Markdown的语法
   - 日常使用的Obsidian是有点魔改的Markdown，感觉需要熟悉更多Github和Gitlab上的Markdown语法
 
+<h1><div align ="center">
+  
+=> [Wiki](https://github.com/Chihiko3/FFXIV-Archive/wiki) <=
 
-=> [Wiki](https://github.com/Chihiko3/FFXIV-Archive/wiki)
-
+</div></h1>
