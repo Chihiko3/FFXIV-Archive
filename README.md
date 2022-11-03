@@ -22,7 +22,7 @@
 - Wiki的排版和设计
   - 之前尝试写过Wiki但是总感觉排版很乱，这次准备以这个仓库为实验，系统的学习、练习Wiki的页面布局和管理
 - Markdown的语法
-  - 日常使用的Obsidian是有点魔改的Markdown，感觉需要熟悉更多Github和Gitlab上的Markdown语法
+  - 日常使用的Obsidian是有点定制的Markdown，感觉需要熟悉更多Github和Gitlab上的Markdown语法
 
 <h1><div align ="center">
   
